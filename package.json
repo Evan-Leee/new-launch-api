@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha ./test/unit --require babel-register --require babel-polyfill",
     "start": "nodemon --exec babel-node ./bin/server"
   },
   "author": "",
@@ -22,7 +22,11 @@
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^4.1.0",
     "morgan": "^1.9.0",
-    "nodemon": "^1.14.10"
+    "nodemon": "^1.14.10",
+    "sinon": "^4.1.4"
   }
 }
