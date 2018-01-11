@@ -18,7 +18,14 @@ export class ListingService {
 
   async getListing(id) {
     const listingCollection = await this.listingModel.search(id);
-    return listingCollection;
+    const slorStatus = listingCollection.responseHeader.status;
+    if (slorStatus !== 0) {
+      throw new Error('Solr search error!');
+    }
+    return {
+      number: listingCollection.response.numFound,
+      listings: listingCollection.response.docs
+    };
   }
 }
 

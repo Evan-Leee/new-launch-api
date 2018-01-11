@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/unit --require babel-register --require babel-polyfill",
+    "beforeTest": "babel-node ./test/fixture/feeder.js",
+    "test:unit": "mocha ./test/unit --require babel-register --require babel-polyfill",
+    "test:integration": "npm run beforeTest && mocha ./test/integration --require babel-register --require babel-polyfill",
     "start": "nodemon --exec babel-node ./bin/server"
   },
   "author": "",
@@ -24,6 +26,7 @@
     "babel-register": "^6.26.0",
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
+    "get-port": "^3.2.0",
     "mocha": "^4.1.0",
     "morgan": "^1.9.0",
     "nodemon": "^1.14.10",

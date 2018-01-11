@@ -1,0 +1,112 @@
+{
+  "listings": [
+    {
+      "country": "au",
+      "collapse_id": "22222",
+      "audience": "reasites",
+      "audiences": [
+        "myfun"
+      ],
+      "source": "rea",
+      "price_currency": "AUD",
+      "listing_channels": [
+        "buy"
+      ],
+      "listing_category": "residential",
+      "listingtype": [
+        "buy"
+      ],
+      "documentid": "6000011",
+      "resolution": "street",
+      "streetaddr": "23 Little Bourke Street",
+      "display_address": "23 Little Bourke Street, Melbourne, VIC 3000",
+      "propertytype": [
+        "apartment"
+      ],
+      "search_property_type": [
+        "apartment"
+      ],
+      "listprice": 450000,
+      "status": "On Marker",
+      "listdate": "2013-03-22T23:59:59Z",
+      "srchlocationids": [
+        "AU-VIC-MELBOURNE"
+      ],
+      "city": "Melbourne",
+      "state": "VIC",
+      "numbeds": 2,
+      "parkingspaces": 1,
+      "listagenttextcolor": "0xffffff",
+      "latitude": -38.67426,
+      "longitude": 146.694764,
+      "geo_location": [
+        "0,0"
+      ],
+      "listagentlogos": [
+        "{ \"path\": \"/agencylogo/XRWBER/11/20091130162901.gif\", \"name\": \"Century 21 Preferred - Berwick\", \"type\": \"small agent logo\" }",
+        "{ \"path\": \"/agencylogo/XRWBER/2/20091130162901.gif\", \"name\": \"Century 21 Preferred - Berwick\", \"type\": \"medium agent logo\" }",
+        "{ \"path\": \"/agencylogo/XRWBER/12/20091130162901.gif\", \"name\": \"Century 21 Preferred - Berwick\", \"type\": \"large agent logo\" }"
+      ],
+      "contacts": "{\"AU\":[{\"id\":\"646141\",\"name\":\"GeordieDixon\",\"agentType\" : \"NORMAL_AGENT\",\"agencyName\":\"Jellis Craig - Hawthorn\",\"contact\":{\"phone\":\"0418588399\",\"fax\":\"\",\"email\":[\"listeremail1@listeremail.com.au\",\"listeremail2@listeremail.com.au\"],\"website\":\"\"},\"images\":[]}],\"CN\":[{\"id\":\"Liaison\",\"name\":\"Liaison Name\",\"agentType\" : \"LIAISON\",\"agencyName\":\"REA China\",\"contact\":{\"phone\":\"13572964465\",\"fax\":\"029-8983080832\",\"email\":[\"liaison@rea-group.com\"],\"website\":\"www.liaison.com\"},\"logos\":[{\"path\":\"rea_china_logo\",\"name\":\"type\",\"type\":\"caption\"}],\"address\":{\"street\":\"Jin Ye 1 Road\",\"postcode\":\"710068\",\"country\":\"China\",\"coordinate\":{\"latitude\":20.0,\"longitude\":30.0}},\"images\":[{\"path\":\"liaison.jpg\",\"name\":\"liaison\",\"type\":\"type\"}]}]}",
+      "regionals": "{\"en\":{\"tagline\":\"A really good listing.\",\"description\":\"description\",\"geo_address\":{\"state\":\"Vic\",\"city\":\"Docklands\",\"street\":\"238 Harbour Esplanade\",\"postal_code\":\"3008\",\"display_address\":\"238 Harbour Esplanade, Docklands, Vic 3008\"}},\"cn\":{\"tagline\":\"一个真好的listing\",\"description\":\"测试内容\",\"geo_address\":{\"state\":\"维多利亚\",\"postal_code\":\"3008\",\"city\":\"墨尔本滨海港区\",\"street\":\"238 Harbour Esplanade\",\"display_address\":\"维多利亚 3008, 墨尔本滨海港区, 238 Harbour Esplanade\"}}}",
+      "product_type": "BASIC",
+      "numfullbaths": 1,
+      "search_price": 296549,
+      "tagline": "A really good listing."
+    },
+    {
+      "country": "au",
+      "collapse_id": "22222",
+      "audience": "reasites",
+      "audiences": [
+        "myfun"
+      ],
+      "source": "rea",
+      "price_currency": "AUD",
+      "listing_channels": [
+        "buy"
+      ],
+      "listing_category": "residential",
+      "listingtype": [
+        "buy"
+      ],
+      "documentid": "6000012",
+      "resolution": "street",
+      "streetaddr": "23 Little Bourke Street",
+      "display_address": "23 Little Bourke Street, Melbourne, VIC 3000",
+      "propertytype": [
+        "apartment"
+      ],
+      "search_property_type": [
+        "apartment"
+      ],
+      "listprice": 450000,
+      "status": "On Marker",
+      "listdate": "2013-03-22T23:59:59Z",
+      "srchlocationids": [
+        "AU-VIC-MELBOURNE"
+      ],
+      "city": "Melbourne",
+      "state": "VIC",
+      "numbeds": 2,
+      "parkingspaces": 1,
+      "listagenttextcolor": "0xffffff",
+      "latitude": -38.67426,
+      "longitude": 146.694764,
+      "geo_location": [
+        "0,0"
+      ],
+      "listagentlogos": [
+        "{ \"path\": \"/agencylogo/XRWBER/11/20091130162901.gif\", \"name\": \"Century 21 Preferred - Berwick\", \"type\": \"small agent logo\" }",
+        "{ \"path\": \"/agencylogo/XRWBER/2/20091130162901.gif\", \"name\": \"Century 21 Preferred - Berwick\", \"type\": \"medium agent logo\" }",
+        "{ \"path\": \"/agencylogo/XRWBER/12/20091130162901.gif\", \"name\": \"Century 21 Preferred - Berwick\", \"type\": \"large agent logo\" }"
+      ],
+      "contacts": "{\"AU\":[{\"id\":\"646141\",\"name\":\"GeordieDixon\",\"agentType\" : \"NORMAL_AGENT\",\"agencyName\":\"Jellis Craig - Hawthorn\",\"contact\":{\"phone\":\"0418588399\",\"fax\":\"\",\"email\":[\"listeremail1@listeremail.com.au\",\"listeremail2@listeremail.com.au\"],\"website\":\"\"},\"images\":[]}],\"CN\":[{\"id\":\"Liaison\",\"name\":\"Liaison Name\",\"agentType\" : \"LIAISON\",\"agencyName\":\"REA China\",\"contact\":{\"phone\":\"13572964465\",\"fax\":\"029-8983080832\",\"email\":[\"liaison@rea-group.com\"],\"website\":\"www.liaison.com\"},\"logos\":[{\"path\":\"rea_china_logo\",\"name\":\"type\",\"type\":\"caption\"}],\"address\":{\"street\":\"Jin Ye 1 Road\",\"postcode\":\"710068\",\"country\":\"China\",\"coordinate\":{\"latitude\":20.0,\"longitude\":30.0}},\"images\":[{\"path\":\"liaison.jpg\",\"name\":\"liaison\",\"type\":\"type\"}]}]}",
+      "regionals": "{\"en\":{\"tagline\":\"A really good listing.\",\"description\":\"description\",\"geo_address\":{\"state\":\"Vic\",\"city\":\"Docklands\",\"street\":\"238 Harbour Esplanade\",\"postal_code\":\"3008\",\"display_address\":\"238 Harbour Esplanade, Docklands, Vic 3008\"}},\"cn\":{\"tagline\":\"一个真好的listing\",\"description\":\"测试内容\",\"geo_address\":{\"state\":\"维多利亚\",\"postal_code\":\"3008\",\"city\":\"墨尔本滨海港区\",\"street\":\"238 Harbour Esplanade\",\"display_address\":\"维多利亚 3008, 墨尔本滨海港区, 238 Harbour Esplanade\"}}}",
+      "product_type": "BASIC",
+      "numfullbaths": 1,
+      "search_price": 296549,
+      "tagline": "A really good listing."
+    }
+  ]
+}
